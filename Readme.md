@@ -8,7 +8,7 @@ sudo nano /etc/resolv.conf
 scroll aja kebawah tinggal tambahin beberapa kalimat
 
 ## Sample
-<a href="https://ibb.co/Bwks0DD"><img src="https://i.ibb.co/9GPYQXX/IMG-20230826-191220.jpg" alt="IMG-20230826-191220"border="0"></a>
+<a href="https://ibb.co/Bwks0DD"><img src="https://i.ibb.co/Bwks0DD/IMG-20230826-191220.jpg" alt="IMG-20230826-191220" border="0"></a>
 
 nah ikutin aja sesuai gambar atau copy paste
 
